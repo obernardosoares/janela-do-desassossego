@@ -1,0 +1,13 @@
+{
+    "dart.flutterSdkPath": "/home/fabio/flutter",
+    "terminal.integrated.env.linux": {
+        "CC": "/usr/bin/clang",
+        "CXX": "/usr/bin/clang++",
+        "PATH": "/home/fabio/flutter/bin:/usr/bin:${env:PATH}"
+    },
+    "cmake.configureEnvironment": {
+        "CC": "/usr/bin/clang",
+        "CXX": "/usr/bin/clang++"
+    },
+    "cmake.sourceDirectory": "/home/fabio/Documents/portugalfuturista/aws-iot-core-poc/janela-do-desassossego/linux/flutter"
+}
